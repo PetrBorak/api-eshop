@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_images_images",
+  "info": {
+    "name": "Images",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "Motto": {
+      "type": "string"
+    }
+  }
+}

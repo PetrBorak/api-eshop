@@ -1,0 +1,2 @@
+The queries and mutations will use the generated controller's actions as resolvers. It means that the restaurants query will execute the Restaurant.find action, the restaurant query will use the Restaurant.findOne action and the createRestaurant mutation will use the Restaurant.create action, etc.
+

@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/subnavigation-top",
+      "handler": "subnavigation-top.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/subnavigation-top",
+      "handler": "subnavigation-top.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/subnavigation-top",
+      "handler": "subnavigation-top.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

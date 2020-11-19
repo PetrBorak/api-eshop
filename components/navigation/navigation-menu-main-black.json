@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_navigation_navigation_menu_main_blacks",
+  "info": {
+    "name": "Navigation Menu / Main - Black",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Link": {
+      "type": "component",
+      "repeatable": true,
+      "component": "link.link"
+    }
+  }
+}

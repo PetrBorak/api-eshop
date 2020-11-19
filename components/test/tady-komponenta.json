@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_tady_komponentas",
+  "info": {
+    "name": "tadyKomponenta",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "aha": {
+      "type": "datetime"
+    }
+  }
+}

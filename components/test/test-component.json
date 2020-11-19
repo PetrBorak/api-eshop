@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_test_test_components",
+  "info": {
+    "name": "testComponent",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "nater": {
+      "type": "enumeration",
+      "enum": [
+        "nater",
+        "nater02"
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_component_addings",
+  "info": {
+    "name": "testComponentAdding"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "tadyKomponenta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "test.tady-komponenta"
+    }
+  }
+}

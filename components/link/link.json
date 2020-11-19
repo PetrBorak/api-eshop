@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_link_links",
+  "info": {
+    "name": "Link",
+    "icon": "ad",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "page": {
+      "model": "page"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}
